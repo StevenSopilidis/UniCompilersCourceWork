@@ -1,0 +1,3 @@
+// NOTE that went in the project
+uppecase X letter and lowercase x letter are considered different in the project
+undefined symbols are ingored
